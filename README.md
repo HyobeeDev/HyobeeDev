@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hyoeun Kim
+
+<a href="https://hyobeedev.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <!--
 **HyobeeDev/HyobeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
